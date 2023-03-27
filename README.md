@@ -1,4 +1,4 @@
-# Patika CSS first homework
+# The first CSS lesson I did as part of the Frontend training on the path
 [patika site](patika.dev)
 
 [patika my profile](https://app.patika.dev/EfeErsan)

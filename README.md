@@ -1,5 +1,5 @@
 # Patika'da Frontend eğitiminin bir parçası olarak yaptığım ilk CSS ödevi
-##First CSS assignment I did as part of the Frontend tutorial in Patika
+## First CSS assignment I did as part of the Frontend tutorial in Patika
 [patika site](patika.dev)
 
 [patika my profile](https://app.patika.dev/EfeErsan)
